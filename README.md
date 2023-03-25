@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-css">
+  <img src="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge">
 </p>
 
 ## Calculator
