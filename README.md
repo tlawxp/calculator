@@ -4,6 +4,6 @@
 
 # Download
 
-```
-git clone https://github.com/tlawxp/calculator
+```bash
+$ git clone https://github.com/tlawxp/calculator
 ```
