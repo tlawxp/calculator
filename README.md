@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge">
+  <img src="https://img.shields.io/static/v1?label=<LABEL>&message=Halo<MESSAGE>&color=green<COLOR>">
 </p>
 
 ## Calculator
