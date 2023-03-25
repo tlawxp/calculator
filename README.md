@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://img.shields.io/static/v1?label=<LABEL>&message=Halo<MESSAGE>&color=green<COLOR>">
+  <a href="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge">
 </p>
 
 ## Calculator
