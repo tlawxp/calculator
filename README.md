@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&style=for-the-badge">
-  <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>">
+  <img src="https://shields.io/badge/-success-success">
 </p>
 
 ## Calculator
